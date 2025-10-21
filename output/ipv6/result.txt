@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-10-21 07:01:06,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+2025-10-21 18:55:39,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 
 💰央视付费频道,#genre#
@@ -19,34 +18,40 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 
 ☘️浙江频道,#genre#
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
-浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
+龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
-武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
-余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
@@ -56,9 +61,7 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 
 ☘️上海频道,#genre#
-上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=3d07ca6dd63fe88d489828ac56bd02581e576f20c460c32bec943a86a2d159b51a177f4186aa91045ee1c3b1b14ede5accc85b0c58c01a8201e6e8277e222da8b0cd553a74a01b9b3bb56893f8
-上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?sign=52bcb293840525afc20f183fd4fec6f8&tm=1757436314&token=263012168c20e0fac33cc4380cfa5b8992ddd3f7e35b501980c01f58761b83a99b5992d8bbf89304fe832666b6284f43866179b28fbf43cefb52eb75e99cecf462cf4687e182ca2658389024ef
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?sign=baf4677a556e411a7e3639bda66eca0f&tm=1757355490&token=a88466c8c0d3788d333987df991cb29c1bbdcede9924a8d3026202c22940b447704ff2c9123c66b2c48ec34b9f837524f69b99aff7581076d033af2d938587885b364200fd4b1194f2dea477e1
 第一财经,http://ls.qingting.fm/live/276.m3u8
 
 ☘️重庆频道,#genre#
@@ -75,8 +78,8 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 江苏教育,https://mgtv.ottiptv.cc/mg/628008321.m3u8?sign=42fbc7d5ecee3d7514da7487637571af&tm=1757355490&token=dbdd3a0a60ec694eddb90b6d3f1045c5330978b2ea28dcd0611a446e87a312654c1e665465a4496920424533b8bf6be7740ab68e5f926c8639319cc319527a74c3a4b49ff0cd24c8669fc83609
 淮安新闻综合,https://mgtv.ottiptv.cc/mg/639731826.m3u8?sign=c48bc7a8f23189004a9e8833b63b0513&tm=1757436314&token=e0a403b0d4ef04ab569a5e9e22becbdeda6ffc9d6da2355cf868afbcca420d5f52b2b2f0c0ca73cc1c3054da32467b41ec9b1545cd3a55377c687b3520b78e56892225b012e6d8636f1faeba0d
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
-连云港新闻综合,https://mgtv.ottiptv.cc/mg/639731715.m3u8?sign=562f01249a3bb4ded001ab337f5b462e&tm=1757436314&token=925dc73fa2be7e665f2bab9ee8eed3b7758720818e5eed3cba79afceebc04ac2f29304349e90d5efaa1db57b174b799e7126265fdfcd3fac979d4f1b6447c3e2533623aacb08a37c2c4c298163
 连云港新闻综合,https://mgtv.ottiptv.cc/mg/639731715.m3u8?sign=7b26c40b909e7cac4f36e7f4bd47de48&tm=1757355490&token=4ed0ffb73c4ce6c38a20e5564cb3f8965b8799594abac355afa93d3da18ec04205cb1a20ddfdaef2d5853370a462f0c7be1fe3cf10485628ae9f45c70e5ca62a475d76b6224ec22417ad4a80ef
+连云港新闻综合,https://mgtv.ottiptv.cc/mg/639731715.m3u8?sign=562f01249a3bb4ded001ab337f5b462e&tm=1757436314&token=925dc73fa2be7e665f2bab9ee8eed3b7758720818e5eed3cba79afceebc04ac2f29304349e90d5efaa1db57b174b799e7126265fdfcd3fac979d4f1b6447c3e2533623aacb08a37c2c4c298163
 
 ☘️辽宁频道,#genre#
 辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
@@ -86,6 +89,7 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 
 ☘️湖北频道,#genre#
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 
 ☘️广西频道,#genre#
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
@@ -98,12 +102,13 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 汶川新闻综合,rtmp://live.iwcmt.cn:1936/live/zhxw
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8
 
 ☘️陕西频道,#genre#
-陕西新闻资讯,https://mgtv.ottiptv.cc/mg/956909289.m3u8?sign=37af1178cc945c369cdc2af3d927c160&tm=1757436314&token=6e6d8f9c2759e82cb31e1805f955766ee6a0688413760ec6908a0f0ad521810a98bdbb3d849ed2d2a213f136916e2178a18f3983ba7f28f2673d0d6ec2c5320bd81b46da79183bc97069cac00c
 陕西新闻资讯,https://mgtv.ottiptv.cc/mg/956909289.m3u8?sign=83790fc91c63d33e784e883ffa9823a1&tm=1757355490&token=4496cfd51b684fcf01ce85fa20794561e34b34c4a596613e3d33d69ebf3378d1d299dd2aa89a376dfc2d2102afca4af1f22591df0429a9da7e432fb7fffa97adea2f08f3d631bef3e2aa5168ba
+陕西新闻资讯,https://mgtv.ottiptv.cc/mg/956909289.m3u8?sign=37af1178cc945c369cdc2af3d927c160&tm=1757436314&token=6e6d8f9c2759e82cb31e1805f955766ee6a0688413760ec6908a0f0ad521810a98bdbb3d849ed2d2a213f136916e2178a18f3983ba7f28f2673d0d6ec2c5320bd81b46da79183bc97069cac00c
 陕西都市青春,https://mgtv.ottiptv.cc/mg/956909358.m3u8?sign=b1b08619ce5d762269e2a3bb75fa9fd2&tm=1757355490&token=a5b9994bf4c6fb0186346b9b268794abcc1e9a4c8a45af928d44e59ce86daf6bafac03d473c84c6ad892d4feb04e75022ebd91482ea632d9dcc711f562b081876b7f52730f2a9384e6deadf45c
 陕西公共,http://ls.qingting.fm/live/1222.m3u8
 陕西体育休闲,https://mgtv.ottiptv.cc/mg/956909356.m3u8?sign=c58ceab54891c335fade1a807dc629a1&tm=1757355490&token=2c6a192ec095b9ae453a145c896aaa21aeb9ff68137e4aed8035c547177a409dd704d11cfa0130e7de514a49b5afed80f17476daeba29b68a76e5788333ae18062e741700b2bfe468e2f04bb4f
@@ -122,7 +127,7 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 
 ☘️河北频道,#genre#
-鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
@@ -146,6 +151,7 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 
 ☘️山西频道,#genre#
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
+五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd&amp;quot;
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
@@ -181,20 +187,21 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 
 🌊港·澳·台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 🎬电影频道,#genre#
 淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
 淘娱乐,http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-五星体育,https://other.ottiptv.cc/wxty.m3u8
-精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 
@@ -244,7 +251,6 @@ CETV-4,url
 汕头文旅,url
 茂名综合,url
 茂名公共,url
-浙江民生,url
 杭州综合,url
 杭州明珠,url
 杭州生活,url
@@ -270,14 +276,15 @@ CETV-4,url
 舟山新闻综合,url
 舟山公共,url
 浙江民生休闲,url
+浙江数码时代,url
 浙江教科影视,url
+浙江遂昌,url
 龙泉新闻综合,url
 青田电视台,url
 金华都市农村,url
 鄞州二套,url
 鄞州一套,url
 遂昌综合,url
-遂昌新闻综合,url
 象山综合,url
 象山电视台新闻综合,url
 象山新闻综合,url
@@ -291,7 +298,9 @@ CETV-4,url
 湖州公共民生,url
 海盐新闻,url
 海宁新闻综合,url
-余姚新闻综合,url
+文成新闻综合,url
+数码时代,url
+余姚综合,url
 义乌新闻综合,url
 北京卡酷少儿,url
 北京生活,url
@@ -302,6 +311,7 @@ CETV-4,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
+上海第一财经,url
 东方财经,url
 全纪实,url
 嘉定电视台,url
@@ -352,7 +362,12 @@ CETV-4,url
 沭阳综合,url
 泗洪新闻综合,url
 泗阳综合,url
+泗阳资讯,url
+泰州一套新闻综合,url
+泰州三套影视娱乐,url
 海安新闻综合,url
+涟水电视台综合,url
+淮安公共,url
 淮安影院娱乐,url
 溧水新闻综合,url
 滨海新闻综合,url
@@ -481,9 +496,7 @@ CETV-4,url
 将乐综合,url
 德化新闻综合,url
 新罗电视一套,url
-晋江电视台,url
 漳州新闻综合,url
-漳浦综合,url
 石狮综合,url
 龙岩新闻综合,url
 福建新闻,url
@@ -816,7 +829,6 @@ CETV-4,url
 凤凰香港,url
 纬来体育,url
 纬来育乐,url
-J2,url
 Viutv,url
 三立台湾,url
 东森综合,url
@@ -831,7 +843,6 @@ NewTV惊悚悬疑,url
 靖天戏剧,url
 经典电影,url
 天映经典,url
-无线星河,url
 星空卫视,url
 东森电影,url
 龙祥电影,url
@@ -877,6 +888,7 @@ NewTV惊悚悬疑,url
 咪咕直播38,url
 CCTV-5,url
 纬来体育,url
+五星体育,url
 爱体育,url
 超级体育,url
 福建体育,url
